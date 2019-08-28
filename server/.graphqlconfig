@@ -1,0 +1,12 @@
+{
+  "projects": {
+    "realEstateApp": {
+      "schemaPath": "schema.graphql",
+      "extensions": {
+        "endpoints": {
+          "dev": "https://api.gateway.attomdata.com/propertyapi/v1.0.0/"
+        }
+      }
+    }
+  }
+}
